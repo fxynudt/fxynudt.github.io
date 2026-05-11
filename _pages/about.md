@@ -17,42 +17,90 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Nice to meet you! I am Xinyue Fang (方馨悦) , currently a Master of Computer Science student in the College of Computer Science and Technology at the National University of Defense Technology (NUDT) , supervised by Prof. Zhiliang Tian (田植良) and Prof. Zhen Huang (黄震). Before joining NUDT, I I received my B.E. degree of Network Engineering degree from the School of Computer Science and Technology at Harbin University of Science and Technology (HRBUST) in 2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interests lie primarily in **Hallucination Detection and Mitigation in LLMs**, **Large Reasoning Models**, and **LLM-based Agents**. I am passionate about understanding model behaviors and developing novel algorithmic frameworks to improve the reliability of text generation.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*: &nbsp;🎉🎉 One paper about hallucination mitigation in MoE models was accepted by **ACL 2026**!
+- *2025.11*: &nbsp;🏆 Honored to receive the **National Scholarship (Top 1)** at NUDT!
+- *2025.09*: &nbsp;🎉🎉 One paper about sequential editing for continual knowledge updates was accepted by **NeurIPS 2025**!
+- *2025.09*: &nbsp;🎉🎉 A survey paper on hallucination detection methods was accepted by **Journal of Computer Research and Development**!
+- *2024.12*: &nbsp;🎉🎉 One paper about hallucination detection via contextual knowledge triples was accepted by **AAAI 2025**!
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ACL26_paper.png' alt="ACL26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs’ Hallucinations](https://ojs.aaai.org/index.php/AAAI/article/view/34559)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xinyue Fang**, Zhiliang Tian, Zhen Huang, Ziyi Pan, Zhihua Wen, Xi Wang, Quntian Fang, Dongsheng Li. 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<strong><span class='show_paper_citations' data='YOUR_G_SCHOLAR_PAPER_ID_1'></span></strong>
+- Proposed Expert-Aware Adaptive Contrastive Decoding strategy to mitigate hallucinations in MoE models without requiring external resources. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI25_paper.png' alt="AAAI25" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/34559)
+
+**Xinyue Fang**, Zhen Huang, Zhiliang Tian, Minghui Fang, Ziyi Pan, Quntian Fang, Zhihua Wen, Hengyue Pan, Dongsheng Li. 
+
+<strong><span class='show_paper_citations' data='YOUR_G_SCHOLAR_PAPER_ID_2'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NIPS_paper.png' alt="NeurIPS25" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hippocampal-like Sequential Editing for Continual Knowledge Updates in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0d230e3015b806e7c9cc9afd5ac2c4a9-Abstract-Conference.html)
+
+Quntian Fang, Zhen Huang, Zhiliang Tian, Minghao Hu, Dongsheng Li, Yiping Yao, **Xinyue Fang**, Menglong Lu, Guotong Geng. 
+
+<strong><span class='show_paper_citations' data='YOUR_G_SCHOLAR_PAPER_ID_3'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCRD 2026</div><img src='images/journal_paper.png' alt="JCRD26" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey on Hallucination Detection Methods for Large Language Models](https://kns.cnki.net/kcms2/article/abstract?v=VrduTR4bJX6JlWGysZmZTViANormAuu0d5qUEp6MVBFVNliqVmBWwJrZGk6QKWWU6-OO7hqalzn5tQFz8kgrbwyTZMJpcesHZ4QJhARR4uSP02-YNEvjAi9IHsBfI3ZfxD-XETsCDtak7Lq6rkrE_oqwCPbcUFP-psF7cW15xJo=&uniplatform=NZKPT)
+
+Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Tian, Zhen Huang, Kewei Yang. 
+
+<strong><img src="https://img.shields.io/badge/citations-6-9cf?style=flat&labelColor=f6f6f6" alt="citations"></strong>
+</div>
+</div>
+
+## Papers Under Review
+- HUMAD: Hypergraph-Based Multi-View Fusion for Multi-Answer Hallucination Detection in LLMs. Ziyi Pan, Zhiliang Tian, Zhen Huang, **Xinyue Fang**, Yuquan Shu, Jingyuan Huang, Zhihua Wen, Linbo Qiao, Huaping Hu. (Submitted to **KDD 2026**)
+
+# 📖 Education
+- *2024.09 - 2027.07 (Expected)*, **Master of Computer Science**. [National University of Defense Technology (NUDT)](#), Changsha, China.
+  - Supervisors: Prof. Zhiliang Tian & Prof. Zhen Huang. GPA: 3.11/4.00
+- *2020.09 - 2024.07*, **Bachelor of Network Engineering**. [Harbin University of Science and Technology (HRBUST)](#), Harbin, China. 
+  - GPA: 4.55/5.00 (Rank 2/115)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* &nbsp;🏆 National Scholarship (Top 1)
+- *2025* &nbsp;🌟 Outstanding Student Award of School of Computer Science in NUDT (Top 10%)
+- *2024* &nbsp;🎓 Outstanding Graduate of Heilongjiang Province (Top 1%)
+- *2023* &nbsp;🥇 First Prize of the Northeast China Mathematical Modeling Competition
+- *2023* &nbsp;💡 Utility Model Patent: "Photovoltaic Power Plant Cleaning Vehicle" - First Inventor
+- *2022* &nbsp;🥈 Provincial Second Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM)
+- *2021 & 2022* &nbsp;🏅 National Encouragement Scholarship (Twice)
+- *2021 & 2022* &nbsp;🎖️ HRBUST First-class scholarship (Twice)
+- *2021 & 2022* &nbsp;🌟 HRBUST Merit Student Award (Twice)
+- *2021* &nbsp;🥇 Provincial First Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🌟 Extra-Curricular Activities
+- *2025.09 - 2026.02*, **Teaching Assistant**, Computer Graphics Course of NUDT.
+  - Assisted instructors in mentoring students and designing course experiments.
+- *2021.09 - 2023.09*, **Team Leader**, Mathematical Modeling Competitions.
+  - Led a team to win two provincial first prizes and one provincial second prize.
+- *2022.09 - 2023.09*, **Member**, HRBUST Robot Club.
+  - Published a utility model patent as the first inventor.
