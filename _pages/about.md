@@ -21,6 +21,7 @@ Nice to meet you! I am Xinyue Fang (方馨悦) , currently a Master of Computer 
 
 My research interests lie primarily in **Hallucination Detection and Mitigation in LLMs**, **Large Reasoning Models**, and **LLM-based Agents**. I am passionate about understanding model behaviors and developing novel algorithmic frameworks to improve the reliability of text generation.
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper about hallucination mitigation in MoE models was accepted by **ACL 2026**!
 - *2025.11*: &nbsp;🏆🏆 Honored to receive the **National Scholarship (Top 1)** at NUDT!
@@ -32,9 +33,10 @@ My research interests lie primarily in **Hallucination Detection and Mitigation 
 
 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ACL26_paper.png' alt="ACL26 Main" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL26 Main</div><img src='images/ACL26_paper.png' alt="ACL26 Main" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs’ Hallucinations](https://ojs.aaai.org/index.php/AAAI/article/view/34559)
@@ -84,6 +86,7 @@ Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Ti
 ## Papers Under Review
 - HUMAD: Hypergraph-Based Multi-View Fusion for Multi-Answer Hallucination Detection in LLMs. Ziyi Pan, Zhiliang Tian, Zhen Huang, **Xinyue Fang**, Yuquan Shu, Jingyuan Huang, Zhihua Wen, Linbo Qiao, Huaping Hu. (Submitted to **KDD 2026**)
 
+<span class='anchor' id='education'></span>
 # 📖 Education
 - *2024.09 - 2027.07 (Expected)*, **Master of Computer Science**. [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/), Changsha, China.
   - Supervisors: Prof. Zhiliang Tian & Prof. Zhen Huang.
@@ -91,6 +94,7 @@ Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Ti
 - *2020.09 - 2024.07*, **Bachelor of Network Engineering**. [Harbin University of Science and Technology (HRBUST)](https://www.hrbust.edu.cn/), Harbin, China. 
   - GPA: 4.55/5.00 (Rank 2/115)
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Selected Honors and Awards
 - *2025* &nbsp;🏆 National Scholarship (Top 1)
 - *2025* &nbsp;🌟 Outstanding Student Award of School of Computer Science in NUDT (Top 10%)
@@ -103,6 +107,7 @@ Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Ti
 - *2021 & 2022* &nbsp;🌟 HRBUST Merit Student Award (Twice)
 - *2021* &nbsp;🥇 Provincial First Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM)
 
+<span class='anchor' id='extra-curricular'></span>
 # 🌟 Extra-Curricular Activities
 - *2025.09 - 2026.02*, **Teaching Assistant**, Computer Graphics Course of NUDT.
   - Assisted instructors in mentoring students and designing course experiments.
@@ -111,6 +116,7 @@ Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Ti
 - *2022.09 - 2023.09*, **Member**, HRBUST Robot Club.
   - Published a utility model patent as the first inventor.
 
+<span class='anchor' id='hobbies-and-contact'></span>
 # 🏕️ Hobbies & Contact
 - **Reading**: I am a big fan of mystery and suspense fiction, as well as psychology-related literature, which constantly sharpens my logical reasoning and empathy.
 - **Outdoors**: I enjoy hiking and mountaineering during my spare time to embrace nature and refresh my mind.

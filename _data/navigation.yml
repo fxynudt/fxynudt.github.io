@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#education"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Selected Honors and Awards"
+    url: "/#honors-and-awards"
 
   - title: "Extra-Curricular"
-    url: "/#-extra-curricular-activities"
+    url: "/#extra-curricular"
 
   - title: "Hobbies & Contact"
-    url: "/#-hobbies--contact"
+    url: "/#hobbies-and-contact"
