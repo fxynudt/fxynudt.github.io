@@ -19,7 +19,7 @@ redirect_from:
 
 Nice to meet you! I am Xinyue Fang (方馨悦) , currently a Master of Computer Science student in the College of Computer Science and Technology at the National University of Defense Technology (NUDT) , supervised by Prof. Zhiliang Tian (田植良) and Prof. Zhen Huang (黄震). Before joining NUDT, I I received my B.E. degree of Network Engineering degree from the School of Computer Science and Technology at Harbin University of Science and Technology (HRBUST) in 2024.
 
-I focus on building trustworthy AI systems and enhancing model interpretability to enable the safe deployment of AI in real-world applications. My current research interests include:
+I focus on building **trustworthy AI systems** and enhancing **model interpretability** to enable the safe deployment of AI in real-world applications. My current research interests include:
 
 - **Hallucination in LLMs**: detecting and mitigating hallucinations in complex settings, such as long-form generation, multiple-solution scenarios, and reasoning-chain hallucinations.
 - **Large Reasoning Models**: understanding the internal reasoning mechanisms and behaviors of LRMs to further improve their reasoning capabilities, including mitigating overthinking and studying jailbreak attacks and defenses for reasoning processes.
