@@ -43,7 +43,7 @@ I focus on building **trustworthy AI systems** and enhancing **model interpretab
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL26 Main</div><img src='images/ACL26_paper.png' alt="ACL26 Main" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs’ Hallucinations](https://ojs.aaai.org/index.php/AAAI/article/view/34559)
+[Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs’ Hallucinations]
 
 **Xinyue Fang**, Zhiliang Tian, Zhen Huang, Ziyi Pan, Zhihua Wen, Xi Wang, Quntian Fang, Dongsheng Li. 
 
@@ -88,7 +88,7 @@ Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Ti
 </div>
 
 ## Papers Under Review
-- HUMAD: Hypergraph-Based Multi-View Fusion for Multi-Answer Hallucination Detection in LLMs. Ziyi Pan, Zhiliang Tian, Zhen Huang, **Xinyue Fang**, Yuquan Shu, Jingyuan Huang, Zhihua Wen, Linbo Qiao, Huaping Hu. (Submitted to **KDD 2026**)
+- HUMAD: Hypergraph-Based Multi-View Fusion for Multi-Answer Hallucination Detection in LLMs. Ziyi Pan, Zhiliang Tian, Zhen Huang, **Xinyue Fang**, Yuquan Shu, Jingyuan Huang, Zhihua Wen, Linbo Qiao, Huaping Hu.
 
 <span class='anchor' id='education'></span>
 # 📖 Education
