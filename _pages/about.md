@@ -43,11 +43,12 @@ I focus on building **trustworthy AI systems** and enhancing **model interpretab
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL26 Main</div><img src='images/ACL26_paper.png' alt="ACL26 Main" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs’ Hallucinations]
+Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs’ Hallucinations
 
 **Xinyue Fang**, Zhiliang Tian, Zhen Huang, Ziyi Pan, Zhihua Wen, Xi Wang, Quntian Fang, Dongsheng Li. 
 
-<strong><span class='show_paper_citations' data='L1D87voAAAAJ:u5HHmVD_uO8C'></span></strong>
+<!-- <strong><span class='show_paper_citations' data='L1D87voAAAAJ:u5HHmVD_uO8C'></span></strong> -->
+<strong><img src="https://img.shields.io/badge/citations-0-9cf?style=flat&labelColor=f6f6f6" alt="citations"></strong>
 - Proposed an Expert-Aware Adaptive Contrastive Decoding (EAACD) method that leverages expert activation differences and reliability-aware contrastive decoding in MoE models to mitigate hallucinations without external resources or additional training. 
 </div>
 </div>
