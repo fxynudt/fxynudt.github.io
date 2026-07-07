@@ -79,7 +79,7 @@ Quntian Fang, Zhen Huang, Zhiliang Tian, Minghao Hu, Dongsheng Li, Yiping Yao, *
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCRD 2026</div><img src='images/journal_paper.png' alt="JCRD26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey on Hallucination Detection Methods for Large Language Models](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202550069)
+[Survey of Hallucination Detection Methods for Large Language Models](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202550069)
 
 Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Tian, Zhen Huang, Kewei Yang. 
 
