@@ -43,7 +43,7 @@ I focus on building **trustworthy AI systems** and enhancing **model interpretab
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL26 Main</div><img src='images/ACL26_paper.png' alt="ACL26 Main" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs’ Hallucinations
+[Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs’ Hallucinations](https://aclanthology.org/2026.acl-long.1824/)
 
 **Xinyue Fang**, Zhiliang Tian, Zhen Huang, Ziyi Pan, Zhihua Wen, Xi Wang, Quntian Fang, Dongsheng Li. 
 
@@ -79,11 +79,11 @@ Quntian Fang, Zhen Huang, Zhiliang Tian, Minghao Hu, Dongsheng Li, Yiping Yao, *
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCRD 2026</div><img src='images/journal_paper.png' alt="JCRD26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey on Hallucination Detection Methods for Large Language Models](https://kns.cnki.net/kcms2/article/abstract?v=VrduTR4bJX6JlWGysZmZTViANormAuu0d5qUEp6MVBFVNliqVmBWwJrZGk6QKWWU6-OO7hqalzn5tQFz8kgrbwyTZMJpcesHZ4QJhARR4uSP02-YNEvjAi9IHsBfI3ZfxD-XETsCDtak7Lq6rkrE_oqwCPbcUFP-psF7cW15xJo=&uniplatform=NZKPT)
+[A Survey on Hallucination Detection Methods for Large Language Models](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202550069)
 
 Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Tian, Zhen Huang, Kewei Yang. 
 
-<strong><img src="https://img.shields.io/badge/citations-6-9cf?style=flat&labelColor=f6f6f6" alt="citations"></strong>
+<strong><img src="https://img.shields.io/badge/citations-8-9cf?style=flat&labelColor=f6f6f6" alt="citations"></strong>
 - Provide a comprehensive survey of hallucination detection methods for large language models, systematically categorizing them into white-box and black-box approaches based on model transparency and practical application requirements.
 </div>
 </div>
