@@ -90,6 +90,7 @@ Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Ti
 
 ## Papers Under Review
 - HUMAD: Hypergraph-Based Multi-View Fusion for Multi-Answer Hallucination Detection in LLMs. Ziyi Pan, Zhiliang Tian, Zhen Huang, **Xinyue Fang**, Yuquan Shu, Jingyuan Huang, Zhihua Wen, Linbo Qiao, Huaping Hu.
+- Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG.  Zhonghao Sun, Zhiliang Tian, Xinyue Fang, Shuo Ma, Juhua Zhang, Yiping Song, Dongsheng Li.
 
 <span class='anchor' id='education'></span>
 # 📖 Education
