@@ -27,7 +27,8 @@ I focus on building **trustworthy AI systems** and enhancing **model interpretab
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One paper about hallucination mitigation in MoE models was accepted by **ACL 2026**!
+- *2026.08*: &nbsp;🎉🎉 One paper about private RAG was accepted by **EMNLP 2026 Main**!
+- *2026.04*: &nbsp;🎉🎉 One paper about hallucination mitigation in MoE models was accepted by **ACL 2026 Main**!
 - *2025.11*: &nbsp;🏆🏆 Honored to receive the **National Scholarship (Top 1)** at NUDT!
 - *2025.09*: &nbsp;🎉🎉 One paper about sequential editing for continual knowledge updates was accepted by **NeurIPS 2025**!
 - *2025.09*: &nbsp;🎉🎉 A survey paper on hallucination detection methods was accepted by **Journal of Computer Research and Development**!
@@ -79,7 +80,7 @@ Quntian Fang, Zhen Huang, Zhiliang Tian, Minghao Hu, Dongsheng Li, Yiping Yao, *
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src="{{ '/images/EMNLP_paper.png' | relative_url }}" alt="EMNLP26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG.]
+Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG.
 
 Zhonghao Sun, Zhiliang Tian, Xinyue Fang, Shuo Ma, Juhua Zhang, Yiping Song, Dongsheng Li.
 
@@ -101,7 +102,6 @@ Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Ti
 
 ## Papers Under Review
 - HUMAD: Hypergraph-Based Multi-View Fusion for Multi-Answer Hallucination Detection in LLMs. Ziyi Pan, Zhiliang Tian, Zhen Huang, **Xinyue Fang**, Yuquan Shu, Jingyuan Huang, Zhihua Wen, Linbo Qiao, Huaping Hu.
-- Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG.  Zhonghao Sun, Zhiliang Tian, Xinyue Fang, Shuo Ma, Juhua Zhang, Yiping Song, Dongsheng Li.
 
 <span class='anchor' id='education'></span>
 # 📖 Education
