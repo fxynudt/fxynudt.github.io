@@ -76,6 +76,17 @@ Quntian Fang, Zhen Huang, Zhiliang Tian, Minghao Hu, Dongsheng Li, Yiping Yao, *
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src="{{ '/images/EMNLP_paper.png' | relative_url }}" alt="EMNLP26" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG.]
+
+Zhonghao Sun, Zhiliang Tian, Xinyue Fang, Shuo Ma, Juhua Zhang, Yiping Song, Dongsheng Li.
+
+- Proposed SparsePay-RAG, an on-demand privacy budget framework that leverages public priors, adaptive private retrieval, and DP contrastive decoding to minimize privacy costs while achieving a superior privacy-utility trade-off in differentially private RAG.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCRD 2026</div><img src='images/journal_paper.png' alt="JCRD26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,7 +94,7 @@ Quntian Fang, Zhen Huang, Zhiliang Tian, Minghao Hu, Dongsheng Li, Yiping Yao, *
 
 Zituo Li, Jianbin Sun, Guangzhou Chen, **Xinyue Fang**, Ruijing Cui, Zhiliang Tian, Zhen Huang, Kewei Yang. 
 
-<strong><img src="https://img.shields.io/badge/citations-8-9cf?style=flat&labelColor=f6f6f6" alt="citations"></strong>
+<strong><img src="https://img.shields.io/badge/citations-14-9cf?style=flat&labelColor=f6f6f6" alt="citations"></strong>
 - Provide a comprehensive survey of hallucination detection methods for large language models, systematically categorizing them into white-box and black-box approaches based on model transparency and practical application requirements.
 </div>
 </div>
